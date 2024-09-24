@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Risper Atieno</h1>
+<h1 align="center">Hi 👋, I'm Risper </h1>
 - 🌱 I’m currently learning **react**
 
 - 📫 How to reach me **risperochieng8@gmail.com**
